@@ -1,4 +1,8 @@
-### REPORT SUMMARY ###
+## ViLearnX Advanced Technologies ##
+ViLearnX Advance Technologies aim to impart technical knowledge with innovative learning modules, from a young age, which makes learning not only informative but interesting.
+This company aspire to bring out the leaders, thinkers, and creators of tomorrow, who with the help of technology build a technically racing world. 
+
+## REPORT SUMMARY ##
 After executing the code, we will have several visualizations and statistical summaries that will help us in understanding the UCI Heart Disease dataset. Here's a brief summary on the findings:
 AIM : the main is to find the insights from heart disease dataset. Like the effect of different attributes on heart disease such as fasting blood sugar, chest pain type, resting electrocardiographic results and the level of cholesterol etc.
 Observation:
